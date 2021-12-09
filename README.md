@@ -23,7 +23,7 @@ The variance for all manufacturing lots is 62.29 which is less than 100 pounds p
 The p-value for t.test across all manufacturers is 0.060 which is higher than 0.05. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.   
 
 
-The p-value for t.test across individual manufacturers are 1, 0.0607, 0.042. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the lots 1 and 2 are statistically similar and lot 3 is statistically different.  
+The p-value for t.test across individual manufacturers are 1, 0.607, 0.42. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the lots 1 and 2 are statistically similar and lot 3 is statistically different.  
 
 ![T-Tests ](https://user-images.githubusercontent.com/89143725/145334857-2548db8e-7497-4e06-af80-4ddf614dcff8.png)
 
