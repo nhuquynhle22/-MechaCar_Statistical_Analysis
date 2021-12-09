@@ -50,6 +50,7 @@ In this exercise, we use R to perform t-tests to determine if all manufacturing 
 The null hypothesis for each of these four tests is that the sample mean is not different from the population mean of 1,500 PSI. 
 
 ![Lot sum](https://user-images.githubusercontent.com/89143725/145337680-895c1a30-adc3-4724-8a51-b5736eebe1c6.png)
+
 ![Total sum](https://user-images.githubusercontent.com/89143725/145337686-45e939ac-2950-415d-872f-b85e41953d28.png)
 
 Analysis Summary: 
