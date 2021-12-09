@@ -10,11 +10,11 @@ Our null hypothesis is that there is no relation between the independent variabl
 
 ### Key Questions
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-Is the slope of the linear model considered to be zero? Why or why not?
+- Is the slope of the linear model considered to be zero? Why or why not?
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ![Deliverable 1](https://user-images.githubusercontent.com/89143725/145334647-3bb5a90c-a57c-4cdc-b28c-25b0e0129f97.png)
 
