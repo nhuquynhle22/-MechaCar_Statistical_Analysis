@@ -53,9 +53,7 @@ In this exercise, we use R to perform t-tests to determine if all manufacturing 
 
 The null hypothesis for each of these four tests is that the sample mean is not different from the population mean of 1,500 PSI. 
 
-![Lot sum](https://user-images.githubusercontent.com/89143725/145337680-895c1a30-adc3-4724-8a51-b5736eebe1c6.png)
-
-![Total sum](https://user-images.githubusercontent.com/89143725/145337686-45e939ac-2950-415d-872f-b85e41953d28.png)
+![T-Tests ](https://user-images.githubusercontent.com/89143725/145338162-70e5f011-6686-448f-a5fe-eeed9a97b909.png)
 
 Analysis Summary: 
 - For the T-test of all lots together against the mean PSI of the population, the p-value is 0.06028, at a 0.05 significance level, the mean of 1,498.78 is not statistically different from the population mean of 1500, and we (narrowly) cannot reject the null hypothesis.
